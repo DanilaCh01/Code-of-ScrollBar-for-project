@@ -13,6 +13,8 @@
     line-height: calc(24/18);
     letter-spacing: -0.02em;
     color: #11111199;
+
+    white-space: nowrap;
 }
 
 .category-item:hover {
